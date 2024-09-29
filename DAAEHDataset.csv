@@ -1,0 +1,104 @@
+Unnamed: 0,Course Code,Faculty ,Feedback,Previous Experience,Gender,Attendance,Course Difficulty,Study Hours (per week),Overall Satisfaction,Department,sentiment
+0,CPE 321,Prof. Ujwal,"The man is too fast in his teaching,he clearly doesn't know how to teach students very well.",No,Male,Regular,Challenging,21,5,Yes,positive
+1,CPE 331,Prof. Reha,The class is dry but he really puts in efforts,Yes,Female,Regular,Moderate,7,8,Yes,neutral
+2,CPE 321,Prof. Kanishik,"The course is shit and it's a threat to my brain,the teaching mode is so poor ",No,Male,Regular,Challenging,7,4,Yes,negative
+3,CPE 321,Prof. Ujwal,"He no try at all, didn’t teach well.",No,Male,Regular,Challenging,12,1,Yes,neutral
+4,CPE 321,Prof. Ujwal,Ogbeni you sef know as e dae go ,Yes,Male,Occasional,Difficult,0,0,Yes,neutral
+5,CPE 321,Prof. Sunil,"Omo, God will judge AK sha.
+You don’t take a class like that and expect the students to understand what you are doing, that’s him and God ahead.
+Make I sha no fail",No,Male,Regular,Difficult,9,1,Yes,neutral
+6,CPE 321,Prof. Reha,That man no good at all,No,Female,Regular,Difficult,3,1,No,positive
+7,CPE 321,Prof. Sunil,E choke,No,Male,Regular,Challenging,0,3,Yes,negative
+8,MEE 361,Prof. Kanishik,The teaching mode is okay as the lecturer do revision of what's being taught from time to time.,No,Male,Regular,Moderate,4,8,Yes,positive
+9,CPE 321,Prof. Kanishik,"Basically from my own experience, CPE 321 isn’t hard but the method employed by the lecturer in teaching the course leaves much to be desired. I would have loved if the lecturer took his time and explained the course very well. ",No,Male,Regular,Challenging,5,3,Yes,positive
+10,CPE 321,Prof. Kanishik,On God No cap,No,Male,Regular,Challenging,3,1,Yes,neutral
+11,CPE 321,Prof. Sunil,"The course is very very difficult and the lecturer no dey even make am easy.
+He actually taught and explained 27 pages of the material within 3 hours.",No,Male,Regular,Difficult,6,0,Yes,negative
+12,CPE 321,Prof. Kanishik,Need more explanation and practical application from the lecturer when teaching this course,No,Male,Regular,Moderate,0,3,Yes,neutral
+13,CPE 321,Prof. Kanishik,The course isn’t supposed to be this difficult if the lecturer had taken his time to explain it and made the class an interactive one. ,Yes,Male,Regular,Challenging,0,2,Yes,negative
+14,CPE 321,Prof. Reha,Omooooo is all I can say😭,No,Female,Regular,Difficult,2,4,Yes,neutral
+15,CPE 311,Prof. Kanishik,The lecturer is cool and calm. Her teaching method makes it easier to understand her courses.,Yes,Male,Regular,Easy,9,9,Yes,positive
+16,CPE 321,Prof. Kanishik,The lecturer is fucking terrible. With his I-dont-care attitude towards students. The worst lecturer so far.,No,Male,Regular,Difficult,7,0,Yes,negative
+17,CPE 331,Prof. Reha,The course is actually well detailed in the material the lecturer uses. The lecturer is also cool-headed and makes the class interactive albeit boring at times.,No,Female,Regular,Easy,10,7,Yes,negative
+18,CPE 341,Prof. Sunil,"The course is not well taught. Worst still, we are writing codes on paper for exams.",Yes,Male,Regular,Moderate,10,6,Yes,positive
+19,CPE 381,Prof. Sunil,I dont like my group period.,No,Male,Regular,Moderate,1,2,Yes,negative
+20,MEE 361,Prof. Ujwal,"This lecturer really tried for us to be honest but with the teaching of hundreds of students at a time, the class is very rowdy and students are mostly left to study on their own.",Yes,Male,Regular,Moderate,12,7,Yes,positive
+21,GSE 301,Prof. Sunil,One of my best courses so far. No stress at all and we finished up really early.,Yes,Male,Regular,Easy,0,10,Yes,negative
+22,CPE 321,Prof. Ujwal,Such a terrible teaching method from the lecturer.,No,Male,Regular,Difficult,10,0,Yes,negative
+23,CPE 321,Prof. Reha,Awful ,No,Female,Regular,Difficult,4,2,Yes,negative
+24,CPE 321,Prof. Sunil,I felt the course was a bit rushed in terms of teaching the course and also the materials were a bit complex to read and understand ,No,Male,Regular,Challenging,4,1,Yes,neutral
+25,CPE 341,Prof. Kanishik,Little time to learn so much ,No,Male,Regular,Challenging,3,4,Yes,neutral
+26,CPE 381,Prof. Sunil,"The lecturer is good, I like him.",No,Male,Regular,Moderate,2,8,Yes,positive
+27,CPE 321,Prof. Kanishik,We are basically left to go study that course on our own. ,No,Male,Regular,Difficult,8,2,Yes,neutral
+28,CPE 311,Prof. Sunil,Course is well thought,Yes,Male,Regular,Easy,10,10,Yes,positive
+29,CPE 321,Prof. Sunil,this course is hard,No,Male,Irregular,Difficult,3,0,Yes,negative
+30,CPE 331,Prof. Ujwal,The lecturer is good and his course is also good,No,Male,Regular,Moderate,12,8,Yes,positive
+31,CPE 341,Prof. Kanishik,the way the course is taught is not up to 21st century standard,No,Male,Regular,Challenging,8,4,Yes,neutral
+32,CPE 381,Prof. Reha,1 unit course wey dey disturb person. nonsense.,No,Female,Regular,Challenging,0,1,Yes,negative
+33,MEE 361,Prof. Ujwal,class is always rowdy when taking this course,No,Male,Irregular,Moderate,11,6,Yes,neutral
+34,GSE 301,Prof. Reha,no stress in this course,No,Female,Occasional,Easy,5,10,Yes,negative
+35,CPE 311,Prof. Kanishik,good,Yes,Male,Regular,Easy,12,9,Yes,positive
+36,CPE 321,Prof. Ujwal,stupid ,No,Male,Irregular,Difficult,4,0,Yes,negative
+37,CPE 331,Prof. Reha,nice course ,No,Female,Irregular,Moderate,8,7,Yes,positive
+38,CPE 341,Prof. Kanishik,hard and lecturer is fast when teaching,No,Male,Irregular,Difficult,10,3,Yes,negative
+39,CPE 381,Prof. Kanishik,why is a 1 unit course stressing our lives?,No,Male,Irregular,Challenging,1,1,Yes,negative
+40,MEE 361,Prof. Kanishik,relatively easy,No,Male,Regular,Moderate,15,6,Yes,positive
+41,GSE 301,Prof. Reha,stress no dey the course,No,Female,Regular,Easy,0,9,Yes,negative
+42,CPE 321,Prof. Ujwal,very awful course,No,Male,Irregular,Difficult,7,1,Yes,negative
+43,CPE 341,Prof. Ujwal,"The teaching mode and environment is top tier but the course itself requires deep thinking and reasoning especially questions seen in exam so the little learned during classes is certainly not enough to solve the problems, especially if you don’t have prior experience with programming.",No,Male,Regular,Challenging,6,5,Yes,negative
+44,CPE 311,Prof. Sunil,nice teaching method from the lecturer,Yes,Male,Regular,Easy,11,9,Yes,positive
+45,CPE 321,Prof. Ujwal,the teaching method is so terrible ,No,Male,Irregular,Difficult,2,0,Yes,negative
+46,CPE 311,Prof. Reha,Easy course,No,Female,Irregular,Easy,8,9,Yes,positive
+47,CPE 321,Prof. Ujwal,The outline of the course is difficult and lecturer is bad,No,Male,Regular,Difficult,6,1,Yes,negative
+48,CPE 331,Prof. Sunil,Lecturer is good but the class is dry and equations are much,No,Male,Irregular,Moderate,14,6,Yes,positive
+49,CPE 341,Prof. Sunil,I hate coding,No,Male,Regular,Challenging,6,5,Yes,negative
+50,CPE 381,Prof. Ujwal,This one-unit course has got a hell of wahala,No,Male,Regular,Challenging,1,1,Yes,negative
+51,MEE 361,Prof. Kanishik,Teaching mode is bad but course is sometimes easy to understand,No,Male,Regular,Moderate,14,7,Yes,positive
+52,GSE 301,Prof. Sunil,No stress in the course,No,Male,Regular,Easy,2,10,Yes,negative
+53,CPE 311,Prof. Reha,I won't lie. The course is sometimes hard.,Yes,Female,Occasional,Difficult,5,4,Yes,negative
+54,CPE 311,Prof. Kanishik,The course is cool,Yes,Male,Regular,Easy,18,10,Yes,positive
+55,CPE 321,Prof. Reha,Ah akanni. God will judge you.,No,Female,Irregular,Difficult,8,0,Yes,positive
+56,CPE 331,Prof. Kanishik,Na me dey make the class funny pass even though the man go do him best make am dry.,No,Male,Regular,Easy,18,8,Yes,positive
+57,CPE 341,Prof. Sunil,Me wey be senior dev con dey struggle for LA class ha,No,Male,Regular,Challenging,12,3,Yes,neutral
+58,CPE 381,Prof. Reha,one-unit course wey get problem. nonsense,No,Female,Regular,Difficult,1,1,Yes,negative
+59,MEE 361,Prof. Reha,I just hope I pass this course cos omo,Yes,Female,Regular,Moderate,11,4,Yes,positive
+60,GSE 301,Prof. Kanishik,SImple course,No,Male,Regular,Easy,10,10,Yes,neutral
+61,CPE 311,Prof. Sunil,I struggled at the start but it all went easy as time goes by,Yes,Male,Irregular,Easy,19,9,Yes,positive
+62,CPE 321,Prof. Sunil,Awful & terrible from both the course and lecturer,No,Male,Irregular,Difficult,8,0,Yes,negative
+63,CPE 331,Prof. Reha,Nice teaching from scientist,No,Female,Irregular,Moderate,16,7,Yes,positive
+64,CPE 341,Prof. Kanishik,I no sabi code,No,Male,Irregular,Challenging,8,3,Yes,negative
+65,CPE 381,Prof. Ujwal,"I learnt a lot in the course, but the lecturers are too demanding",No,Male,Regular,Moderate,3,5,Yes,negative
+66,MEE 361,Prof. Sunil,Applied my math's knowledge from 200L for the most part of course,Yes,Male,Irregular,Moderate,18,6,Yes,neutral
+67,GSE 301,Prof. Sunil,good one,Yes,Male,Regular,Easy,7,9,Yes,positive
+68,CPE 311,Prof. Reha,cool one from aunty,Yes,Female,Regular,Easy,15,10,Yes,positive
+69,CPE 321,Prof. Reha,"Akanni, you are a bad teacher wtf",No,Female,Regular,Difficult,10,0,Yes,negative
+70,CPE 331,Prof. Reha,nice,No,Female,Regular,Easy,16,9,Yes,positive
+71,CPE 341,Prof. Ujwal,thank God for my coding skills  bruh,Yes,Male,Regular,Moderate,15,9,Yes,positive
+72,CPE 381,Prof. Kanishik,neutral,No,Male,Regular,Challenging,5,5,Yes,neutral
+73,GSE 301,Prof. Reha,nice and easy course,Yes,Female,Regular,Easy,7,10,Yes,positive
+74,CPE 311,Prof. Sunil,great teaching method from lecturer,Yes,Male,Regular,Easy,18,10,Yes,positive
+75,CPE 321,Prof. Sunil,I hate this course plus the man,No,Male,Irregular,Difficult,5,0,Yes,negative
+76,CPE 331,Prof. Reha,way to go. Nice job from lecturer,No,Female,Regular,Moderate,17,7,Yes,positive
+77,CPE 341,Prof. Ujwal,"LA didnt start well but Engineer Adeboye did well but in the end, the course was tricky",No,Male,Regular,Challenging,11,5,Yes,negative
+78,CPE 381,Prof. Sunil,bad,No,Male,Regular,Challenging,2,3,Yes,negative
+79,MEE 361,Prof. Sunil,fair play,No,Male,Regular,Moderate,14,6,Yes,positive
+80,CPE 311,Prof. Ujwal,good,Yes,Male,Regular,Easy,19,10,Yes,positive
+81,CPE 321,Prof. Kanishik,course should  not be difficult but lecturer messed it up,No,Male,Regular,Moderate,13,5,Yes,negative
+82,CPE 331,Prof. Kanishik,positive experience,No,Male,Regular,Easy,17,9,Yes,positive
+83,CPE 341,Prof. Sunil,love to code and course is about coding. A plus for me,Yes,Male,Regular,Easy,18,9,Yes,positive
+84,CPE 381,Prof. Sunil,awful practicals. course handlers are tough.,No,Male,Regular,Challenging,4,4,Yes,negative
+85,MEE 361,Prof. Ujwal,nice,Yes,Male,Regular,Easy,13,9,Yes,positive
+86,GSE 301,Prof. Ujwal,A bonus course for me,Yes,Male,Regular,Easy,8,10,Yes,positive
+87,CPE 311,Prof. Ujwal,the best course and lecturer,Yes,Male,Regular,Easy,15,10,Yes,positive
+88,CPE 321,Prof. Sunil,akanni does not know how to teach,No,Male,Regular,Challenging,10,2,Yes,neutral
+89,CPE 331,Prof. Ujwal,awesome,No,Male,Regular,Easy,12,9,Yes,positive
+90,CPE 341,Prof. Ujwal,love to code,Yes,Male,Regular,Moderate,7,7,Yes,positive
+91,CPE 381,Prof. Ujwal,practicals were okay for me sha,No,Male,Regular,Easy,12,8,Yes,positive
+92,MEE 361,Prof. Ujwal,nice,Yes,Male,Regular,Easy,15,9,Yes,positive
+93,GSE 301,Prof. Kanishik,GSE was very okay,Yes,Male,Irregular,Easy,5,9,Yes,positive
+94,CPE 311,Prof. Sunil,nice course,Yes,Male,Regular,Easy,10,9,Yes,positive
+95,GSE 301,Prof. Reha,easy and no wahala,Yes,Female,Regular,Easy,9,8,Yes,positive
+96,CPE 321,Prof. Reha,terrible way of teaching with the I-dont-care attitude,No,Female,Irregular,Difficult,4,0,Yes,negative
+97,CPE 341,Prof. Sunil,do not like coding,No,Male,Irregular,Difficult,0,0,Yes,negative
+98,CPE 381,Prof. Ujwal,this practical is hard on top 1 unit course haba,No,Male,Regular,Difficult,5,0,Yes,positive
+99,CPE 321,Prof. Ujwal,"not the right way to teach, Mr Akanni",No,Male,Occasional,Difficult,3,0,Yes,neutral
